@@ -25,7 +25,8 @@ print(le)
 
 ```
 ## Output:
-![image](https://github.com/Bosevennila/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/144870486/17b51832-bbcd-4a32-8928-4d247eed199b)
+![image](https://github.com/Bosevennila/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/144870486/6beaea18-8760-4de7-bfc4-465f8f4d2f72)
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
