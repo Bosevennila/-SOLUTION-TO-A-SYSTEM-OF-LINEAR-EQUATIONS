@@ -25,7 +25,8 @@ print(le)
 
 ```
 ## Output:
-![image](https://github.com/Bosevennila/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/144870486/6beaea18-8760-4de7-bfc4-465f8f4d2f72)
+![image](https://github.com/Bosevennila/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/144870486/1a8a6b11-a852-4259-bf6d-9f32a2995e05)
+
 
 
 ## Result: 
